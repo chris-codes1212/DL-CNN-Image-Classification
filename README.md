@@ -28,10 +28,10 @@ The main workflow is contained in the notebook
 
 ## 🚀 Features
 
--   CNN architecture for image classification\
--   Data preprocessing and augmentation pipeline\
--   Training, validation, and test evaluation\
--   Metrics, visualizations, confusion matrix\
+-   CNN architecture for image classification
+-   Data preprocessing and augmentation pipeline
+-   Training, validation, and test evaluation
+-   Metrics, visualizations, confusion matrix
 -   Easily adaptable to other image datasets
 
 ## 📂 Project Structure
@@ -40,8 +40,6 @@ The main workflow is contained in the notebook
     │
     ├── histology_classifier.ipynb
     ├── requirements.txt
-    ├── data/
-    └── models/
 
 ## 🛠 Getting Started
 
@@ -75,17 +73,15 @@ jupyter notebook histology_classifier.ipynb
 
 ## 📊 Results
 
--   Validation Accuracy: \~92%\
--   Test Accuracy: \~89%\
+-   Test Accuracy: \~91%
 -   Includes training curves, confusion matrix, sample predictions.
 
 ## 🔮 Future Improvements
 
--   Transfer learning\
--   Larger dataset\
--   Hyperparameter tuning\
--   Deployment via FastAPI/Streamlit\
--   ONNX optimization
+-   Transfer learning
+-   Larger dataset
+-   Further Hyperparameter tuning
+-   Deployment via FastAPI/Streamlit
 
 ## 🤝 Contributions
 

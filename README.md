@@ -5,7 +5,7 @@ classify histology images.\
 Includes data preprocessing, model training, evaluation, and
 visualizations --- all within a clean and reproducible workflow.
 
-## 📌 Table of Contents
+## Table of Contents
 
 -   Overview
 -   Features
@@ -17,7 +17,7 @@ visualizations --- all within a clean and reproducible workflow.
 -   Contributions
 -   License
 
-## 🧠 Overview
+## Overview
 
 This project implements a CNN-based image classification model using
 histology images.\
@@ -26,7 +26,7 @@ and visualizations.\
 The main workflow is contained in the notebook
 `histology_classifier.ipynb`.
 
-## 🚀 Features
+## Features
 
 -   CNN architecture for image classification
 -   Data preprocessing and augmentation pipeline
@@ -34,14 +34,14 @@ The main workflow is contained in the notebook
 -   Metrics, visualizations, confusion matrix
 -   Easily adaptable to other image datasets
 
-## 📂 Project Structure
+## Project Structure
 
     DL-CNN-Image-Classification/
     │
     ├── histology_classifier.ipynb
     ├── requirements.txt
 
-## 🛠 Getting Started
+## Getting Started
 
 Clone:
 
@@ -63,7 +63,7 @@ Install:
 pip install -r requirements.txt
 ```
 
-## 🧪 Training & Evaluation
+## Training & Evaluation
 
 Run:
 
@@ -71,23 +71,19 @@ Run:
 jupyter notebook histology_classifier.ipynb
 ```
 
-## 📊 Results
+## Results
 
 -   Test Accuracy: \~91%
 -   Includes training curves, confusion matrix, sample predictions.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 -   Transfer learning
 -   Larger dataset
 -   Further Hyperparameter tuning
 -   Deployment via FastAPI/Streamlit
 
-## 🤝 Contributions
+## Contributions
 
 Fork → branch → PR\
 Issues welcome.
-
-## 📄 License
-
-MIT License.
